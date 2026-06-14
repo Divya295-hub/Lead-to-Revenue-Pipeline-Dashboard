@@ -30,7 +30,7 @@
   <li>Revenue & Segments: Revenue by product, sector, region, and company size band</li>
   <li>Deal Detail: Drill-through table showing every opportunity behind a selected rep or product</li>
 </ul>
-
+<br>
 ## A few things the data showed
 <ul>
   <li>Lost deals closed faster than won ones across every product line. The takeaway: a deal still alive past the average time-to-loss isn't stalling, it's 
@@ -39,6 +39,8 @@
   <li>Large and Enterprise accounts drove the majority of revenue.</li>
   <li>The highest-volume reps weren't the highest-converting ones, a sign that activity doesn't equal outcome.</li>
 </ul>
+
+![Lead-to-Revenue-Pipeline-Dashboard](https://github.com/Divya295-hub/Lead-to-Revenue-Pipeline-Dashboard/blob/main/Pipeline%20Health%20Overview.png)
 
 ## Conclusion
 <p>
